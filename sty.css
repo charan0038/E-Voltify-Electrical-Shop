@@ -1,0 +1,105 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    background-color:#C4DFE6;
+       padding: 2px;
+}
+nav{
+    background-color:#66A5AD;
+}
+h1{
+    text-shadow: 2px 2px 6px rgb(186, 175, 175);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#w{
+    margin-top: -5px;
+}
+footer{
+    background-color:#66A5AD;
+}
+h3{
+    text-align: center;
+    text-shadow: 2px 2px 4px rgb(230, 117, 117);
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#con{
+    background-image: url(./media/rrrr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-rendering: 20px;
+    }
+.button{
+    width:150px;
+}
+#tea:hover{
+    transform: scale(1.02);
+    transition:0.3s ease-in-out ;
+    box-shadow: 2px 2px 5px black;
+}
+#tea{
+    border-radius: 10px;
+}
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+}
+.width{
+    width:300px;
+}
+#k{
+    color:black;
+    text-decoration: none;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:cadetblue;
+    border-radius: 1000px;
+}
+#io{
+    border-radius: 10px;
+}
+/* .col-lg-4{
+    margin: 25px;
+} */
+form{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.sticky-top{
+    position:sticky ;
+    top:0;
+    z-index: 1020;
+}
+.link{
+    word-spacing: 20px;
+    text-decoration: none;
+}
+legend{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.left{
+    margin: -35px;
+}
+.roun{
+    box-shadow: 2px 2px 5px black;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    height: 500px;
+}
+.best{
+    margin: 50px;
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+        border-radius: 2px;
+        border: 2px solid;
+        bor
+  }
